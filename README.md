@@ -1,80 +1,113 @@
-<!-- ===================== -->
-<!--  DARK PROFILE BANNER -->
-<!-- ===================== -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Subramanyam%20Sirisala&fontSize=40&fontAlignY=40&desc=.NET%20Developer&descAlignY=60"
-/>
-
-<!-- ===================== -->
-<!--  TYPING INTRO        -->
-<!-- ===================== -->
+<!-- TOP HERO SECTION -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Subramanyam;.NET+Developer;Backend+%26+API+Engineer"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9c63b2e7-9f7a-4b9a-8b63-45c7bca59c66.gif" width="400" />
 </p>
 
-<!-- ===================== -->
-<!--  LINKS               -->
-<!-- ===================== -->
+<h1 align="center">
+  🚀 Hi, I'm <span style="color:#7C3AED;">Subramanyam (Subbu)</span>
+</h1>
+
+<h3 align="center">
+  💼 .NET Developer | Backend-Focused | Clean Architecture Advocate
+</h3>
+
 <p align="center">
-  <a href="https://subbu-portfolio-111.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/subramanyam-dotnet/" target="_blank">LinkedIn</a> •
-  <a href="mailto:sirisalasubramanyam@gmail.com">Email</a>
+  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin/">💼 LinkedIn</a> •
+  <a href="mailto:sirisalasubramanyam@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## ⚙️ Tech & Tools
+## 🧑‍💻 About Me
+
+🎯 I’m a **.NET Developer** focused on building **scalable, clean, and production-ready applications**.  
+I care about **code quality, performance, and real-world impact** — not just making things work, but making them work **right**.
+
+💡 Current focus areas:
+- ASP.NET Core Web APIs
+- Clean Architecture & SOLID principles
+- Performance optimization
+- Real-world backend systems
+
+---
+
+## ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,git,github,visualstudio,vscode,postman&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL_Server-1F2937?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,swagger,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,sqlserver&theme=dark" />
+</p>
+
+### 🧠 Core Stack
+- **C#**
+- **ASP.NET Core**
+- **ASP.NET Core MVC**
+- **Web API**
+- **Entity Framework Core**
+- **ADO.NET**
+- **LINQ**
+- **SQL Server**
+
+### 🎨 Frontend (Supportive)
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+---
+
+## 📊 Performance Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramanyam111&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subramanyam111&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanyam111&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📈 Profile Performance
+## 🧩 Projects Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subramanyam111&show_icons=true&theme=tokyonight" />
-</p>
+✔ Clean APIs  
+✔ Proper validations  
+✔ Meaningful status codes  
+✔ Scalable structure  
+✔ Industry-aligned practices  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subramanyam111&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Leave-Management-System-Api-Project&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Student-Management-System-using-ASP.NET-MVC&theme=tokyonight" />
-</p>
+I build projects **like they’re going to production — because one day, they will.**
 
 ---
 
-## 📊 Contribution Activity
+## ☕ Developer Mode
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subramanyam111&theme=tokyo-night" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656962-92c4e62f-6d48-4a87-b1d4-4e65a53a9ed0.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656964-0f65dc3c-2d30-44c8-aadf-91a3e8c0d6e6.gif" width="300" />
 </p>
+
+> **Code. Coffee. Repeat.**  
+> Shipping value beats chasing perfection.
 
 ---
 
-## 🐍 Contribution Snake
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: **https://your-portfolio-link.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/your-linkedin/**
+- 📧 Email: **sirisalasubramanyam@gmail.com**
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Subramanyam111/Subramanyam111/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 </p>
-
-<!-- ===================== -->
-<!--  FOOTER              -->
-<!-- ===================== -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=90&section=footer"
-/>
