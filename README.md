@@ -1,128 +1,98 @@
-<!-- ===================== -->
-<!--  GITHUB PROFILE README -->
-<!-- ===================== -->
+<!-- ========================= -->
+<!--  GITHUB PROFILE README   -->
+<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Subramanyam Sirisala</h1>
-<h3 align="center">.NET Developer | Backend & API Engineer (Fresher)</h3>
+<!-- SVG Banner -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subramanyam%20Sirisala&fontAlign=50&fontAlignY=40&color=gradient&desc=.NET%20Developer&descAlign=50&descAlignY=60" 
+  width="100%" 
+/>
 
+<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=500&lines=.NET+Developer;Backend+%26+API+Enthusiast;Building+with+C%23+%26+ASP.NET+Core" />
+</h3>
+
+<!-- Links -->
 <p align="center">
-  <a href="https://subbu-portfolio-111.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" />
-  </a>
-  <a href="https://www.linkedin.com/in/subramanyam-dotnet/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sirisalasubramanyam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://subbu-portfolio-111.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/subramanyam-dotnet/" target="_blank">LinkedIn</a> •
+  <a href="mailto:sirisalasubramanyam@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ Tech & Tools
 
-- 🎯 **.NET Developer (Fresher)** focused on **backend & API development**
-- 🧠 Strong fundamentals in **C#, OOPS, ASP.NET Core, RESTful APIs**
-- 🏗️ Experienced with **Layered Architecture, Repository & Service patterns**
-- 🔄 Hands-on with **Entity Framework Core & SQL Server**
-- 🧪 Comfortable testing and documenting APIs using **Swagger & Postman**
-- 🚀 Actively building real-world projects and improving system design skills
-
-> I believe in writing **clean, maintainable code** and learning by **building real systems**, not tutorials.
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Core
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_API-005571?style=flat"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 🎨 Frontend (Working Knowledge)
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 🧰 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Leave Management System API
-> **Production-style RESTful backend system**
-
-- ASP.NET Core Web API (.NET 8)
-- Entity Framework Core (Code First)
-- SQL Server
-- Layered Architecture (Controller → Service → Repository)
-- Global Exception Handling
-- Swagger API Documentation
-
-🔗 **Repository:**  
-👉 https://github.com/Subramanyam111/Leave-Management-System-Api-Project
-
----
-
-### 🔹 StudentHub – Student Management System
-> **Full-stack MVC web application**
-
-- ASP.NET Core MVC
-- Role-based authentication
-- CRUD operations
-- Responsive UI with Bootstrap
-
-🔗 **Repository:**  
-👉 https://github.com/Subramanyam111/Student-Management-System-using-ASP.NET-MVC
-
----
-
-## 📊 GitHub Stats (Auto-Updating)
+## 📈 Profile Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subramanyam111&show_icons=true&theme=tokyonight" />
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramanyam111&show_icons=true&theme=default#gh-light-mode-only" />
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramanyam111&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subramanyam111&theme=tokyonight" />
+  <!-- Light Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subramanyam111&theme=default#gh-light-mode-only" />
+  <!-- Dark Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subramanyam111&theme=tokyonight#gh-dark-mode-only" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced ASP.NET Core (JWT Authentication, Authorization)
-- Clean Architecture & SOLID principles
-- API Performance Optimization
-- Cloud basics (Azure fundamentals)
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/subramanyam-dotnet/
-- 🌐 Portfolio: https://subbu-portfolio-111.netlify.app/
-- 📧 Email: sirisalasubramanyam@gmail.com
-
----
+## 🚀 Featured Repositories
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <!-- Leave Management API -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Leave-Management-System-Api-Project&theme=default#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Leave-Management-System-Api-Project&theme=tokyonight#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <!-- StudentHub -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Student-Management-System-using-ASP.NET-MVC&theme=default#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subramanyam111&repo=Student-Management-System-using-ASP.NET-MVC&theme=tokyonight#gh-dark-mode-only" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <!-- Light Mode -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subramanyam111&theme=github-light#gh-light-mode-only" />
+  <!-- Dark Mode -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subramanyam111&theme=tokyo-night#gh-dark-mode-only" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subramanyam111/Subramanyam111/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
