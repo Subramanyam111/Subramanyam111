@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -6,17 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub contribution snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Subramanyam111
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake animation to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
